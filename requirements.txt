@@ -1,7 +1,6 @@
 jupyterlab
 nbclient
 pandas
-csv
 requests
 os
 time
