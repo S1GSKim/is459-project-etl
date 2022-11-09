@@ -1,7 +1,6 @@
 jupyterlab
 nbclient
 pandas
-json
 csv
 requests
 os
