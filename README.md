@@ -5,4 +5,4 @@ ETL on Jupyter
 
 with Github Actions
 
-This repo demos the Action by downloading and puting intp s3 repo.
+This repo demos the Action by downloading and puting into s3
